@@ -1,12 +1,7 @@
 {
 	"recipe": [
 		{
-			"name": "Giouvarlakia",
-			"id": "giouvarlakia",
-			"description": "A low carb version of a traditional hearty Greek dish",
-			"tag": [
-				"Greek"
-			],
+			"tag": [],
 			"image": "http://forkgasm.com/images/106039513_690984628417462_2727964218559966794_n.jpg",
 			"ingredient": [
 				{
@@ -92,12 +87,7 @@
 			"forked": "- Anastasia's Giouvarlakia\n- https://mybigfatketolife.com/2019/04/05/giouvarlakia/"
 		},
 		{
-			"name": "Tal’s Tahini “bread pudding”",
-			"id": "tahini-bread-pudding",
-			"description": "A delicious baked dessert that takes 5 minutes to make!",
-			"tag": [
-				"Dessert"
-			],
+			"tag": [],
 			"image": "http://forkgasm.com/images/bread-pudding.png",
 			"ingredient": [
 				{
@@ -161,13 +151,7 @@
 			"forked": "My friend Tal's \"tahini bread\" recipe."
 		},
 		{
-			"name": "Grand Marnier & Coffee Ice Cream",
-			"id": "grand-marnier-coffee-ice-cream",
-			"description": "Easy and decadent!",
-			"tag": [
-				"Dessert",
-				"Ice Cream"
-			],
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "4",
@@ -231,12 +215,7 @@
 		},
 		{
 			"image": "http://forkgasm.com/images/carbonara.jpg",
-			"name": "Turnip Noodle Carbonara",
-			"id": "turnip-carbonara",
-			"description": "A healthier version of the classic dish that tastes just as good!",
-			"tag": [
-				"Bacon"
-			],
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "16",
@@ -301,12 +280,7 @@
 		},
 		{
 			"image": "http://forkgasm.com/images/40813912_2213541505597183_7740637805202109577_n.jpg",
-			"name": "Spiced lamb chops with mint-mango sauce",
-			"id": "spiced-lamb-chops-with-mint-mango-sauce",
-			"description": "Delicious, refreshing, and super quick to make!",
-			"tag": [
-				"Lamb"
-			],
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "8",
@@ -424,12 +398,7 @@
 			"forked": "[Spiced Lamb Chops with Mint-Mango Sauce](https://www.epicurious.com/recipes/food/views/spiced-lamb-chops-with-mint-mango-sauce-109587)"
 		},
 		{
-			"name": "Papoutsakia",
-			"id": "papoutsakia",
-			"description": "A traditional Greek dish that tastes very similar to moussaka, but is much quicker to cook. Fun fact: Papoutsakia in Greek means \"little shoes\" and a portion usually has two. However, when cooking with large American eggplants, you'll likely find that one per portion is enough.",
-			"tag": [
-				"Greek"
-			],
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "3",
@@ -570,13 +539,7 @@
 		},
 		{
 			"image": "http://forkgasm.com/images/gambas.png",
-			"name": "Gambas al Ajillo",
-			"id": "gambas-al-ajillo",
-			"description": "Quick and garlicky!",
-			"tag": [
-				"Seafood",
-				"Spanish"
-			],
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "2",
@@ -636,14 +599,7 @@
 			"forked": "[Gambas al Ajillo ](http://www.foodandwine.com/recipes/gambas-al-ajillo),\n[Sizzling Shrimp with Garlic (Gambas al Pil Pil)](https://www.williams-sonoma.com/recipe/sizzling-shrimp-with-garlic-gambas-al-pil-pil.html)"
 		},
 		{
-			"name": "Shakshuka",
-			"id": "shakshuka",
-			"description": "Breakfast of champions (one of them)",
-			"tag": [
-				"Arabic",
-				"Israeli",
-				"Breakfast"
-			],
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "3",
@@ -778,13 +734,7 @@
 			"image": "http://forkgasm.com/images/shakshuka.jpg"
 		},
 		{
-			"name": "Real Caesar Salad",
-			"id": "real-caesar-salad",
-			"description": "Based on the original 1920's Italian-American table-side recipe",
-			"tag": [
-				"Italian-American",
-				"Salad"
-			],
+			"tag": [],
 			"image": "https://instagram.fbed1-1.fna.fbcdn.net/t51.2885-15/e35/14712020_1147704851979954_5563654975441076224_n.jpg",
 			"ingredient": [
 				{
@@ -867,9 +817,6 @@
 		},
 		{
 			"image": "http://forkgasm.com/images/fathead-pineapple.jpg",
-			"name": "Fathead Pineapple Pizza",
-			"id": "fathead-pineapple-pizza",
-			"description": "Low carb and delicious!",
 			"tag": [],
 			"ingredient": [],
 			"step": [
@@ -1039,9 +986,6 @@
 		},
 		{
 			"image": "http://forkgasm.com/images/mushrooms.jpg",
-			"name": "Garlic mushrooms a la crème with lardons and green pepper",
-			"id": "garlic-mushrooms-a-la-creme-with-lardons-and-green-pepper",
-			"description": "Not the most photogenic dish, but really easy, quick and delicious!",
 			"tag": [],
 			"ingredient": [
 				{
@@ -1143,13 +1087,7 @@
 		},
 		{
 			"image": "http://forkgasm.com/images/chicken-liver-pate.jpg",
-			"name": "Chicken Liver Pâté",
-			"id": "chicken-liver-pate",
-			"description": "Rich and creamy, delicious on bread or even on its own",
-			"tag": [
-				"Chicken",
-				"Offal"
-			],
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "500",
@@ -1217,14 +1155,7 @@
 		},
 		{
 			"image": "http://forkgasm.com/images/htapodi-krasato.jpg",
-			"name": "Octopus in Wine",
-			"id": "octopus-in-wine",
-			"description": "A traditional Greek dish (Htapodi Krasato).",
-			"tag": [
-				"Greek",
-				"Stew",
-				"Seafood"
-			],
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "2",
@@ -1285,14 +1216,8 @@
 		},
 		{
 			"image": "http://forkgasm.com/images/salmon-sous-vide.jpg",
-			"name": "Sous Vide Salmon Teriyaki",
 			"id": "salmon-teriyaki",
-			"description": "Tender, refreshing and very easy to make",
-			"tag": [
-				"Asian",
-				"Seafood",
-				"Sous Vide"
-			],
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "2",
@@ -1364,12 +1289,7 @@
 		},
 		{
 			"image": "http://forkgasm.com/images/sfouggato.png",
-			"name": "Sfouggato",
-			"description": "A Lesbian delicacy that is super easy to make and can be eaten hot or cold.",
-			"tag": [
-				"Greek"
-			],
-			"id": "sfouggato",
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "7",
@@ -1452,8 +1372,6 @@
 			"forked": "[Σφουγγάτο το Μυτιληνιό](https://akispetretzikis.com/el/categories/almyres-pites-tartes/sfoyggato-to-mytilhnio), [Σφουγγάτο Μυτιλήνης με κολοκυθάκια](https://www.madameginger.com/syntages/syntages-mageirikis/ayga/sfouggato-mutilinis/)"
 		},
 		{
-			"name": "Khoresht Karafs",
-			"description": "A delicious Persian stew with beef and celery.",
 			"ingredient": [
 				{
 					"amount": "1",
@@ -1540,21 +1458,12 @@
 				}
 			],
 			"image": "/images/khoresht-karafs.png",
-			"tag": [
-				"Stew",
-				"Persian",
-				"Beef"
-			],
-			"forked": "Elika’s family recipe",
-			"id": "khoresht-karafs"
+			"tag": [],
+			"forked": "Elika’s family recipe"
 		},
 		{
 			"image": "http://forkgasm.com/images/cheesecake.png",
-			"name": "No-Bake Strawberry Cheesecake",
-			"description": "A delicious low carb treat!",
-			"tag": [
-				"Dessert"
-			],
+			"tag": [],
 			"ingredient": [],
 			"step": [
 				{
@@ -1661,13 +1570,7 @@
 		},
 		{
 			"image": "http://forkgasm.com/images/curried-beef-stew.jpg",
-			"name": "Curried Beef Stew",
-			"description": "Spicy, complex, and very flavorful, this Thai-inspired curry is perfect for cold winter nights.",
-			"tag": [
-				"Thai",
-				"Stew",
-				"Beef"
-			],
+			"tag": [],
 			"ingredient": [
 				{
 					"amount": "2",
@@ -1741,7 +1644,6 @@
 				}
 			],
 			"forked": "[Curried Beef Stew](https://www.epicurious.com/recipes/food/views/curried-beef-stew-380591)",
-			"id": "curried-beef-stew",
 			"ingredientGroup": [
 				{
 					"name": "Curry paste",
